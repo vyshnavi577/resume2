@@ -1,0 +1,60 @@
+{
+"basics":{
+  "name":"vyshnavi parepalli",
+  "email":"vyshnavigupta355@gmail.com",
+  "mobile":"9030506800"
+},
+
+"career":{
+  "info":"To pursue a challenging career and be a part of progressive organization that gives a scope to enhance my knowledge and utilizing my skills towards the growth of the organization."
+},
+
+"education" :[
+  {
+"degree" :"B.tech",
+"institute":"PSCMR",
+"Data":["2015-2019","80%"]
+},
+{
+  "degree":"Intermediate",
+  "institute":"NARAYANA Jr College",
+  "Data":["2013-2015","86%"]
+},
+
+{
+  "degree":"SSC",
+  "institute":"narayana Techno School",
+  "Data":["2012-2013","8.8"]
+}
+],
+
+"achievements":[
+  {
+    "name":"Awarded as <b>1<sup>st</sup>Prize</b> in Self-Defence"
+
+  },
+  {
+    "name":"Got <strong>1<sup>Prize</strong> for <q> PPT presentation</q>"
+  }
+],
+"technicalskills":[
+
+{
+  "name":"Programming Languages",
+  "data": ["C", " JAVA", " C++", " Javascript", " PHP", " HTML"]
+
+},
+{
+  "name":"Database",
+  "data":["MYSQL", " ORACLE"]
+},
+{
+  "name":"Web Technologies",
+  "data":["HTML", " CSS", " JAVASCRIPT"]
+},
+{
+  "name":"Libraries and Framework",
+  "data":["jQuery", " codeIgnitor"]
+}
+]
+}
